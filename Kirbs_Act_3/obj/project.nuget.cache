@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8QwB/WOPRU4=",
+  "success": true,
+  "projectFilePath": "E:\\IS-SI-Act\\SofiaFe\\Kirbs_Act_3\\Kirbs_Act_3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kirbs\\.nuget\\packages\\system.data.oledb\\10.0.14\\system.data.oledb.10.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
